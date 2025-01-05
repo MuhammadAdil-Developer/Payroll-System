@@ -3,7 +3,7 @@ certifi
 chardet
 configparser
 Django
-django-crispy-forms
+django-crispy-forms==1.9.0
 idna
 mysql-connector-python
 mysqlclient
